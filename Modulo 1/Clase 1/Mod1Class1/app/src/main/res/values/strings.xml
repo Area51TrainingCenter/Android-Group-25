@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mod1 Class1</string>
+
+    <string name="hola">Holaaaaaa</string>
+
+    <string name="contenido">Contenido</string>
+    <string name="presionar">Presionar</string>
+    <string name="dato_requerido">Dato requerido</string>
+    <string name="validar">Validar</string>
+</resources>

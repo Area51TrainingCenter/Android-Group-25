@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jcodee.mod1class1.MainActivity">
+
+    <TextView
+        android:id="@+id/tvTexto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_green_light"
+        android:text="Hello World!"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/tamanio_letra" />
+
+    <EditText
+        android:id="@+id/etContenido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/contenido"
+        android:textColor="@android:color/holo_blue_light"
+        android:textColorHint="@android:color/holo_orange_dark" />
+    <!--
+    hint, es como placeHolder en web
+    -->
+
+    <Button
+        android:id="@+id/btnPresionar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/holo_red_light"
+        android:padding="35dp"
+        android:text="@string/presionar"
+        android:textColor="@android:color/white" />
+    <!--
+    layout_gravity, posicionar el componente según la gravedad que se le asigne
+    -->
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rbOpcion1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 1" />
+
+        <RadioButton
+            android:id="@+id/rbOpcion2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 2" />
+    </RadioGroup>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:src="@drawable/ic_launcher" />
+    <!-- johannfjs@gmail.com -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnValidar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:gravity="right"
+            android:text="@string/validar" />
+        <!--
+        layout_gravity, cambia la posición del componente
+        gravity, cambia la posición del contenido del componente
+        -->
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mod1Class2_2</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio">Precio</string>
+    <string name="registrar">Registrar</string>
+    <string name="listado">Listado</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="cerrar_todo">Cerrar Todo</string>
+    <string name="texto">Texto</string>
+    <string name="transformar">Transformar</string>
+</resources>

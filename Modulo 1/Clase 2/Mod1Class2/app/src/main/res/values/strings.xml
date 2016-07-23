@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mod1Class2</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="mensaje">Mensaje</string>
+    <string name="alerta">Complete todos los campos</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="neutral">Neutral</string>
+    <string name="atras">Atras</string>
+</resources>

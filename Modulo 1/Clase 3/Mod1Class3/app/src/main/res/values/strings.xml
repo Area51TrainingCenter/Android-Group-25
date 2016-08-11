@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mod1Class3</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="descuento">Descuento</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="precio">Precio</string>
+    <string name="grabar">Grabar</string>
+    <string name="listar">Listar</string>
+    <string name="producto">Producto</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mod1Class4_2</string>
+    <string name="foto1">Foto1</string>
+    <string name="foto2">Foto2</string>
+    <string name="foto3">Foto3</string>
+    <string name="foto4">Foto4</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripción</string>
+    <string name="grabar">Grabar</string>
+    <string name="listado">Listado</string>
+    <string name="ver_descripcion">Ver Descripción</string>
+    <string name="cerrar">Cerrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

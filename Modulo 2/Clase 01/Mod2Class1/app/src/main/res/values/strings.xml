@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mod2Class1</string>
+    <string name="email">Ingrese Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="registrar">Registrarse</string>
+    <string name="nombre">Ingrese Nombre Completo</string>
+    <string name="repcontrasenia">Repetir Contraseña</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mod2Class2</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="hint_ambiente">Ambiente</string>
+    <string name="hint_precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="listado">Listado</string>
+</resources>

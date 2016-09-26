@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mod2Class4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="registrar">Registrar</string>
+    <string name="listado">Listado</string>
+    <string name="celular">Celular</string>
+    <string name="horaFecha">Fecha y Hora</string>
+    <string name="registrarShared">Registrar Shared</string>
+    <string name="eliminarShared">Eliminar Shared</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mod3Class1</string>
+    <!-- Id unico de aplicación de Facebook -->
+    <string name="facebook_app_id">208110322940644</string>
+</resources>
